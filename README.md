@@ -1,5 +1,3 @@
-# Calculator
-
 # Introduction
 This is a simple calculator program that has been created using Python's GUI library, tkinter. The program includes a display area, where the user's input is displayed, and a set of buttons for performing various arithmetic operations. The buttons included in the calculator are numbers from 0 to 9, arithmetic operations such as addition, subtraction, multiplication, and division, a clear button for clearing the display, and an equal button for evaluating the input.
 
